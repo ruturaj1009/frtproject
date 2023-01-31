@@ -2,7 +2,7 @@
 This is an Informational application to give information about the Hospital.
 ### This web based informational application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skill prime, Quess, Github, Ey.
 
-## project Link: "https://polite-meadow-03f83b710.2.azurestaticapps.net"
+## project Link: "https://zealous-cliff-0bfb75b10.2.azurestaticapps.net"
 
 ## project title:   MYCARE-Hospital Webapp
     
@@ -58,14 +58,16 @@ This is an Informational application to give information about the Hospital.
 
 
 ### Azure Services
+![image](https://user-images.githubusercontent.com/81427391/215845324-a8c286a4-3a79-4fde-868e-2222a2d8222b.png)
+
 ## Azure bot service
-![web app bot]
+![web app bot] ![image](https://user-images.githubusercontent.com/81427391/215848015-c15cf0ea-21df-4875-84a9-9637f5910c21.png)
 
-## Qna Maker
-![qnaservice]
 
-## Web App 
-![webapp]
+## Static Web App 
+![webapp] ![image](https://user-images.githubusercontent.com/81427391/215847937-ea264cd6-7a7f-4caa-b986-f3521849d50b.png)
+
 
 ## Cognitive service
-![cognitive service]
+![cognitive service] ![image](https://user-images.githubusercontent.com/81427391/215848327-dc3f597b-32fb-4a8e-bab0-058ad1405c22.png)
+
