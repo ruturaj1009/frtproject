@@ -61,7 +61,8 @@ This is an Informational application to give information about the Hospital.
 ![image](https://user-images.githubusercontent.com/81427391/215845324-a8c286a4-3a79-4fde-868e-2222a2d8222b.png)
 
 ## Azure bot service
-![web app bot] ![image](https://user-images.githubusercontent.com/81427391/215848015-c15cf0ea-21df-4875-84a9-9637f5910c21.png)
+![Bot Service]  ![bot_services](https://user-images.githubusercontent.com/81427391/215853437-b6af7665-b2b2-42f4-87b3-8b1ca3a474ef.jpg)
+
 
 
 ## Static Web App 
