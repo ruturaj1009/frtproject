@@ -34,29 +34,38 @@ This is an Informational application to give information about the Hospital.
 
 ### Screenshots
 ## Home
-![Home](https://user-images.githubusercontent.com/81427391/198737254-edaa339c-af9e-4024-9cfb-cc1a76a3d779.png)
+![Home] ![image](https://user-images.githubusercontent.com/81427391/215841505-ef35b22f-93ca-416b-bc95-49c01de159c8.png)
+
 
 ## About
-![About](https://user-images.githubusercontent.com/81427391/198737349-44a42c04-0484-4e20-b2f0-ce15d90dac48.png)
+![About] ![image](https://user-images.githubusercontent.com/81427391/215841150-d7fd5b40-dc75-4982-b698-71317306f23a.png)
+
 
 ## Services
-![Services](https://user-images.githubusercontent.com/81427391/198737430-14a2588c-d31c-4b21-b4eb-2b3c10899d9d.png)
+![Services] ![image](https://user-images.githubusercontent.com/81427391/215841614-8821f27b-36ac-47f6-96fd-c7a6f4fc2478.png)
+
 
 ## Contact
-![Contact](https://user-images.githubusercontent.com/81427391/198737548-e10e77ee-4fa0-46a1-b093-ca881c841353.png)
+![Contact] ![image](https://user-images.githubusercontent.com/81427391/215841803-7f29d04b-f742-40f2-99b9-a9ff2797cd7b.png)
+
+
+## Booking
+![Booking] ![image](https://user-images.githubusercontent.com/81427391/215841439-9ce3ff16-6e6e-423f-b081-e06258be458e.png)
+
 
 ## Chatbot
-![chatbot](https://user-images.githubusercontent.com/81427391/198737728-3fa075c1-9e43-4347-b291-5556ad0bdd53.png)
+![chatbot] ![image](https://user-images.githubusercontent.com/81427391/215840950-5f45c2ce-c8d6-4f9d-ae3a-a6b35690ef06.png)
+
 
 ### Azure Services
 ## Azure bot service
-![web app bot](https://user-images.githubusercontent.com/81427391/204376091-31a8215d-19f6-4b60-a5a9-70355bee10f0.jpg)
+![web app bot]
 
 ## Qna Maker
-![qnaservice](https://user-images.githubusercontent.com/81427391/204376247-c2aca587-3d60-4399-ae21-32600b65b68b.jpg)
+![qnaservice]
 
 ## Web App 
-![webapp](https://user-images.githubusercontent.com/81427391/204376356-8af61940-a747-43cb-9d6f-0d17f696ed44.jpg)
+![webapp]
 
 ## Cognitive service
-![cognitive service](https://user-images.githubusercontent.com/81427391/204376436-1de703f3-229c-4253-b2b9-fccd8bad946a.jpg)
+![cognitive service]
