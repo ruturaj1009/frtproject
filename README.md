@@ -2,7 +2,7 @@
 This is an Informational application to give information about the Hospital.
 ### This web based informational application has been developed for the accomplishment of future ready talent internship program launched by microsoft, future skill prime, Quess, Github, Ey.
 
-## project Link: "https://zealous-cliff-0bfb75b10.2.azurestaticapps.net"
+## project Link: "https://ruturaj1009.github.io/frtproject/"
 
 ## project title:   MYCARE-Hospital Webapp
     
